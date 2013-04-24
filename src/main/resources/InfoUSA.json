@@ -1,0 +1,44 @@
+{
+    "serviceDescription": "InfoUSA",
+    "mapName": "Layers",
+    "description": "InfoUSA",
+    "copyrightText": "",
+    "layers": [],
+    "tables": [],
+    "spatialReference": {
+        "wkid": 102100
+    },
+    "singleFusedMapCache": false,
+    "initialExtent": {
+        "xmin": -20000000.0,
+        "ymin": -20000000.0,
+        "xmax": 20000000.0,
+        "ymax": 20000000.0,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "fullExtent": {
+        "xmin": -20000000.0,
+        "ymin": -20000000.0,
+        "xmax": 20000000.0,
+        "ymax": 20000000.0,
+        "spatialReference": {
+            "wkid": 102100
+        }
+    },
+    "units": "esriMeters",
+    "supportedImageFormatTypes": "PNG",
+    "documentInfo": {
+        "Title": "",
+        "Author": "",
+        "Comments": "",
+        "Subject": "",
+        "Category": "",
+        "Keywords": "",
+        "Credits": "",
+        "AntialiasingMode": "None",
+        "TextAntialiasingMode": "Force"
+    },
+    "capabilities": "Map"
+}
